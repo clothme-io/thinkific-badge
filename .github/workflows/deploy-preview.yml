@@ -25,4 +25,4 @@ jobs:
           projectId: thinkific-badge
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
-          CI: false
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
