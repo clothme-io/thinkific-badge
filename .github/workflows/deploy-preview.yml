@@ -22,4 +22,5 @@ jobs:
           expires: 7d
           projectId: thinkific-badge
         env: 
-          FIREBASE_CLI_PREVIEWS: hostingchannels         
+          FIREBASE_CLI_PREVIEWS: hostingchannels
+          CI: false
