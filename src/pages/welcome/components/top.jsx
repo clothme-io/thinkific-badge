@@ -13,7 +13,7 @@ export const Top = (props) => {
           <div className="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-teal-accent-400"></div>
           <div className="max-w-xl mb-6">
             <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-textSecondaryColor sm:text-4xl sm:leading-none">
-              Get your students
+              Help your students
               <br className="hidden md:block" />
               to tell others{" "}
               <span className="inline-block text-deep-purple-accent-400 pt-2">
@@ -21,11 +21,11 @@ export const Top = (props) => {
               </span>
             </h2>
             <p className="text-base text-textSecondaryColor md:text-lg">
-              With dinnt your students can add your certificates <br /> on their
-              LinkedIn profile.
+              With <strong>Dinnt</strong> your students can add your
+              certificates <br /> on their LinkedIn profile.
               <br className="hidden md:block" />
               Showing the world how much they appreciate your course <br />
-              And helping you spread the word on to others.
+              And helping you spread the word to others.
             </p>
           </div>
           <div>
